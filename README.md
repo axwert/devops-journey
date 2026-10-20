@@ -1,2 +1,2 @@
-# devops-journey
-Personal DevOps lab
+DevOps Journey
+Personal DevOps lab and learning journey.
